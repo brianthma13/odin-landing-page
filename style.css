@@ -5,6 +5,7 @@ body {
     border: 0;
     display: flex;
     flex-direction: column;
+    
 }
 
 .header {
