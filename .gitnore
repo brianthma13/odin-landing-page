@@ -1,6 +1,0 @@
-# ignore mac system files
-.DS_Store
-.gitignore
-
-# ignore all txt files
-*.txt
